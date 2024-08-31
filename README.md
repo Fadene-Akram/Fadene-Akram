@@ -18,7 +18,7 @@ Feel free to explore my repositories to see some of the projects I've been worki
 ## Get in Touch
 
 - 📫 **Email**: [fadeneakram@gmail.com]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/akram-fadene-77a4322a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/akram-fadene-77a4322a7/]
 
 ## Collaboration
 
