@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a 3rd-year student at ENSIA (National Higher S
 
 ## About Me
 
-- 🌱 **Currently Learning**: Advanced machine learning techniques, data visualization, and web development.
-- 💼 **Working On**: Developing machine learning models to improve healthcare diagnostics and treatment plans.
+- 🌱 **Currently Learning**: Advanced machine learning techniques, Ai Agents, and improving web development skills.
+- 💼 **Working On**: Full stack and AI Projects.
 - 🎓 **Education**: 3rd-year student at ENSIA (National Higher School of Artificial Intelligence).
 - 🔭 **Interests**: Data science, artificial intelligence, web development, and entrepreneurship.
 
