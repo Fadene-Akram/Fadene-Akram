@@ -1,4 +1,4 @@
-# Hi there, I'm [Akram Fadene]! 👋
+# Hi there, I'm Akram Fadene! 👋
 
 Welcome to my GitHub profile! I'm a 3rd-year student at ENSIA (National Higher School of Artificial Intelligence), passionate about leveraging machine learning to drive innovation and solve real-world problems. My interests span data science, AI, and web development. Below you'll find a bit more about me and how to get in touch.
 
@@ -19,6 +19,7 @@ Feel free to explore my repositories to see some of the projects I've been worki
 
 - 📫 **Email**: [fadeneakram@gmail.com]
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/akram-fadene-77a4322a7/]
+- 💼 **Portfolio**: [https://akram-fadene-portfolio.vercel.app/]
 
 ## Collaboration
 
