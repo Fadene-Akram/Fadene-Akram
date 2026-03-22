@@ -143,25 +143,6 @@ User-friendly desktop app for translating Algerian Arabizi to Standard Arabic or
 
 </div>
 
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| Certificate | Status |
-|:---:|:---:|
-| 🏆 Deep Learning Specialization | ✅ Completed |
-| 🏆 Machine Learning Specialization | ✅ Completed |
-| 🏆 Unsupervised Machine Learning | ✅ Completed |
-| 🏆 Advanced Learning Algorithms | ✅ Completed |
-| 🏆 Supervised Machine Learning | ✅ Completed |
-| 🏆 Training Neural Networks in Python | ✅ Completed |
-| 🏆 Deep Learning Getting Started | ✅ Completed |
-| 🏆 AI Foundations: Neural Networks | ✅ Completed |
-| 🏆 Introduction to Generative AI | ✅ Completed |
-
-</div>
 
 ---
 
@@ -257,7 +238,6 @@ I'm always excited about:
 │  📈 From Research → Production                     │
 │  🚀 From Ideas → Implementation                    │
 │  💡 From Data → Insights                          │
-│  🌟 From Dreams → Reality                         │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
@@ -270,7 +250,6 @@ I'm always excited about:
 - 🌍 Contributing to open-source AI/ML initiatives
 - 💼 Building products that leverage machine learning
 - 🚀 Exploring the intersection of AI and entrepreneurship
-- 🔬 Publishing research on low-resource NLP
 
 ---
 
