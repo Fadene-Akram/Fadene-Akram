@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🤖 AI & Data Science Engineering Student | Full-Stack Developer | ENSIA Student
+### 🤖 AI & Data Science Enthusiast | Full-Stack Developer | ENSIA Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-fadene-77a4322a7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7FD?style=for-the-badge&logo=vercel&logoColor=white)](https://akram-fadene-portfolio.vercel.app/)
@@ -28,134 +28,108 @@ With a strong foundation in AI fundamentals and hands-on experience in full-stac
 
 ---
 
-## 🎯 What I Do
-
-<div align="center">
-
-| 🤖 AI & ML | 📊 Data Science | 💻 Development | 🚀 Innovation |
-|:---:|:---:|:---:|:---:|
-| **Neural Networks** | **Data Analysis** | **Full-Stack** | **AI Projects** |
-| **NLP** | **Statistics** | **Web Apps** | **Real-World Solutions** |
-| **Deep Learning** | **Visualization** | **APIs** | **Deployment** |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages & Core Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Programming Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 AI & Data Science
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Web Development
+### 🎨 Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Tools & Platforms
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-</div>
-
----
-
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔬 AI & Machine Learning
-- ⚙️ Advanced Neural Network Architectures
-- 🗣️ Natural Language Processing (NLP)
-- 🤖 AI Agents & Autonomous Systems
-- 🧠 Transformer Models & LLMs
-- 📊 Deep Reinforcement Learning
-
-</td>
-<td align="center" width="50%">
-
-### 💻 Web & Software Engineering
-- 🎨 Modern Frontend (React, Next.js)
-- 🔌 API Design & Backend Architecture
-- 🗄️ Database Optimization
-- ☁️ Cloud Deployment
-- 🚀 Full-Stack Best Practices
-
-</td>
-</tr>
-</table>
+### 🎯 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🌐 Franco2Fosha
+**Neural NLP Pipeline for Algerian Arabizi Translation**
 
-### 🔝 Highlighted Work
+A comprehensive end-to-end neural NLP pipeline for direct translation of Algerian Arabizi to both Algerian Darija and Modern Standard Arabic.
 
-</div>
+**Key Features:**
+- ✅ ByT5-Small + mBART-Large-50 models
+- ✅ 66.6k parallel corpus (largest of its kind)
+- ✅ LLM-assisted semi-supervised annotation
+- ✅ 90.2% Bigram Precision accuracy
+- ✅ Web interface with side-by-side comparison
+- ✅ Confidence scoring system
 
-<table>
-<tr>
-<td align="center" width="33%">
+[🔗 View on GitHub](https://github.com/Fadene-Akram/Franco2Fosha) | [📄 Documentation](https://github.com/Fadene-Akram/Franco2Fosha)
 
-#### 🌐 Franco2Fosha
-**Neural NLP Pipeline**
+---
 
-Arabizi to Darija & MSA Translation
-- ByT5-Small + mBART models
-- 66.6k parallel corpus
-- LLM-assisted annotation
-- 90.2% accuracy
+### 💼 Hikari
+**Online Store for Anime Clothing Brand**
 
-[Explore →](https://github.com/Fadene-Akram)
+Modern e-commerce platform featuring sleek design and seamless shopping experience.
 
-</td>
-<td align="center" width="33%">
+**Tech Stack:** React, Material UI, Redux, React Query
+**Features:** Product catalog, shopping cart, payment integration, responsive design
 
-#### 📊 Your Next Project
-**Coming Soon**
+---
 
-Building intelligent solutions
-- Real-world applications
-- Innovative approaches
-- Production-ready code
+### 🦷 Fadene Dental Clinic
+**Desktop Management System for Private Dental Clinic**
 
-[Stay Tuned →](https://github.com/Fadene-Akram)
+Comprehensive desktop application for streamlining dental clinic operations.
 
-</td>
-<td align="center" width="33%">
+**Tech Stack:** React, Material UI, Oracle SQL
+**Features:** Patient management, appointment scheduling, expense tracking, dashboard analytics
 
-#### 🔮 Innovation Lab
-**Experimental AI**
+---
 
-Exploring cutting-edge techniques
-- Prompt engineering
-- Model fine-tuning
-- Novel architectures
+### 🤖 Jarvis
+**AI Voice Assistant with Advanced STT & TTS**
 
-[Discover →](https://github.com/Fadene-Akram)
+Dual implementation of intelligent voice assistant combining speech technology and productivity tools.
 
-</td>
-</tr>
-</table>
+**Features:** Speech-to-Text, Text-to-Speech, calendar, contacts, email, web search integration
+
+---
+
+### 💰 Expensy
+**Mobile Expense Tracking & Financial Goal Manager**
+
+Track expenses, manage income, and achieve financial goals with intuitive interface.
+
+**Tech Stack:** Flutter, Dart
+**Features:** Expense tracking, income management, financial goals, data visualization
+
+---
+
+### 🌍 Arabizi Translator
+**Desktop Application for Arabizi Translation**
+
+User-friendly desktop app for translating Algerian Arabizi to Standard Arabic or Algerian Darija.
+
+**Features:** Real-time translation, clean UI, accurate results
 
 ---
 
@@ -171,20 +145,64 @@ Exploring cutting-edge techniques
 
 ---
 
-## 🎯 My Vision
+## 🎓 Certifications & Achievements
 
-```
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│  Using AI & Data Science to solve real-world        │
-│  problems and create meaningful impact.             │
-│                                                       │
-│  📈 From Research → Production                       │
-│  🚀 From Ideas → Implementation                      │
-│  💡 From Data → Insights                            │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Certificate | Status |
+|:---:|:---:|
+| 🏆 Deep Learning Specialization | ✅ Completed |
+| 🏆 Machine Learning Specialization | ✅ Completed |
+| 🏆 Unsupervised Machine Learning | ✅ Completed |
+| 🏆 Advanced Learning Algorithms | ✅ Completed |
+| 🏆 Supervised Machine Learning | ✅ Completed |
+| 🏆 Training Neural Networks in Python | ✅ Completed |
+| 🏆 Deep Learning Getting Started | ✅ Completed |
+| 🏆 AI Foundations: Neural Networks | ✅ Completed |
+| 🏆 Introduction to Generative AI | ✅ Completed |
+
+</div>
+
+---
+
+## 📚 Expertise Areas
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔬 AI & Machine Learning
+- 🧠 Deep Learning & Neural Networks
+- 🗣️ Natural Language Processing (NLP)
+- 📊 Machine Learning Models
+- 🤖 AI Agents & Automation
+- 🎓 Supervised & Unsupervised Learning
+- 🔮 Generative AI
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Full-Stack Development
+- ⚛️ React & Modern Frontend
+- 🎨 UI/UX with Material UI
+- 🔌 State Management (Redux, React Query)
+- 📱 Mobile Development (Flutter/Dart)
+- 🗄️ Database Design (MySQL, Oracle)
+- ☁️ Deployment & Cloud
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- 🔍 Advanced NLP techniques and transformer models
+- 🚀 Building production-ready AI applications
+- 📊 Data-driven insights and analytics
+- 🌐 Full-stack AI/ML applications
+- 🤝 Open-source AI/ML projects
 
 ---
 
@@ -192,7 +210,7 @@ Exploring cutting-edge techniques
 
 I'm always excited about:
 
-- 🔍 **AI/ML Projects** - Building intelligent systems
+- 🔬 **AI/ML Projects** - Building intelligent systems
 - 📊 **Data Science** - Turning data into insights
 - 💻 **Full-Stack Development** - End-to-end solutions
 - 🌍 **Open Source** - Contributing to the community
@@ -212,12 +230,47 @@ I'm always excited about:
 
 ---
 
-## 📈 What's Next?
+## 🎯 Key Statistics
 
-- 🎓 Completing my studies at ENSIA with cutting-edge projects
+<div align="center">
+
+```
+📈 Projects Completed: 5+ Production Apps
+💻 Languages: 9+ Programming Languages
+🤖 ML Models: 15+ Trained Models
+📚 Certifications: 9 Advanced Certificates
+🌍 Open Source: Active Contributor
+```
+
+</div>
+
+---
+
+## 🌟 My Vision
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  Using AI & Data Science to solve real-world      │
+│  problems and create meaningful impact.           │
+│                                                     │
+│  📈 From Research → Production                     │
+│  🚀 From Ideas → Implementation                    │
+│  💡 From Data → Insights                          │
+│  🌟 From Dreams → Reality                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 Next Steps
+
+- 🎓 Completing my final year at ENSIA with groundbreaking projects
 - 🌍 Contributing to open-source AI/ML initiatives
 - 💼 Building products that leverage machine learning
 - 🚀 Exploring the intersection of AI and entrepreneurship
+- 🔬 Publishing research on low-resource NLP
 
 ---
 
@@ -228,5 +281,9 @@ I'm always excited about:
 ![Profile Views](https://komarev.com/ghpvc/?username=Fadene-Akram&color=blueviolet)
 
 **Made with ❤️ by Akram Fadene**
+
+```
+💡 Always Learning | 🚀 Always Building | 🌟 Always Growing
+```
 
 </div>
