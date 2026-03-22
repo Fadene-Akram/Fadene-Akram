@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🤖 AI & Data Science Enthusiast | Full-Stack Developer | ENSIA Student
+### 🤖 AI & Data Science Engineering Student | Full-Stack Developer | ENSIA Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-fadene-77a4322a7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7FD?style=for-the-badge&logo=vercel&logoColor=white)](https://akram-fadene-portfolio.vercel.app/)
