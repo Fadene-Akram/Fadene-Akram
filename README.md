@@ -69,16 +69,7 @@ With a strong foundation in AI fundamentals and hands-on experience in full-stac
 
 ### 🌐 Franco2Fosha
 **Neural NLP Pipeline for Algerian Arabizi Translation**
-
 A comprehensive end-to-end neural NLP pipeline for direct translation of Algerian Arabizi to both Algerian Darija and Modern Standard Arabic.
-
-**Key Features:**
-- ✅ ByT5-Small + mBART-Large-50 models
-- ✅ 66.6k parallel corpus (largest of its kind)
-- ✅ LLM-assisted semi-supervised annotation
-- ✅ 90.2% Bigram Precision accuracy
-- ✅ Web interface with side-by-side comparison
-- ✅ Confidence scoring system
 
 [🔗 View on GitHub](https://github.com/Fadene-Akram/Franco2Fosha) | [📄 Documentation](https://github.com/Fadene-Akram/Franco2Fosha)
 
